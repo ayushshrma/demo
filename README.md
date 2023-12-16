@@ -41,5 +41,7 @@ Make sure you have the following tools installed on your machine:
    Example:
 
     - [http://localhost:8080/hospital-management/register]
-
+   
+**Configuration**
+- Configure your database settings in `src/main/resources/application.properties`
 
